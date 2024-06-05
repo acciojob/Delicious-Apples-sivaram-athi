@@ -6,7 +6,17 @@
 
 li{
 	list-style:none;
-
+}
+.li{
+	list-style:circle;
+}
+button{
+	padding:10px;
+	background-color:red;
+	color:white;
+	border:none;
+	border-radius:5px
+}
 .photo-album{
 	/* display:flex; */
 	flex-direction:row;
