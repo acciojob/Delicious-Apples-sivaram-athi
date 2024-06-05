@@ -1,1 +1,13 @@
 /* your code here */
+
+.product{
+	display:flex;
+}
+
+li{
+	list-style:none;
+
+.photo-album{
+	/* display:flex; */
+	flex-direction:row;
+}
